@@ -1,3 +1,3 @@
-# firebase-gtk-web-start-tjspyd
+# firebase-gtk-web-app-basics
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-gtk-web-start-tjspyd)
+Implementation of a RSVP app with firebase and firebaseUI
